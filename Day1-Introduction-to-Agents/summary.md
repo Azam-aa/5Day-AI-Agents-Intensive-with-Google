@@ -53,6 +53,7 @@ Agents are the next step in the evolution of AI: they don’t just predict or ge
 
 ---
 
+
 ## 🧩 Codelabs Completed
 
 1. **[Day 1a – From Prompt to Action](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action)**  

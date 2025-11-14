@@ -37,3 +37,4 @@ MCP (Model Context Protocol) is an open standard that allows AI agents and tools
 
 ## Conclusion
 MCP enables agents to extend their power with tools but requires strict governance and security layers for enterprise safety.
+
