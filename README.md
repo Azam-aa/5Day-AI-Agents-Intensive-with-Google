@@ -69,7 +69,6 @@ This repository contains everything I learned and built during the program, incl
 ---
 
 ## 🧩 Official Resources
-
 - 💬 [Kaggle Discord Community](https://discord.gg/kaggle)  
 - 🔑 [Google AI Studio](https://aistudio.google.com)  
 
